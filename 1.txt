@@ -1,0 +1,1 @@
+una capa stl con 50 neuronas y probar más con 100 neuronas o etc
